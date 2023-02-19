@@ -8,8 +8,4 @@
 - <a href="https://holeman4110.github.io/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-535D6C?style=flat&logo=github&logoColor=white"/></a>
 - <a href="https://holeman4110.notion.site/2c8c17548c5749a7a636e7dd9077f10c" target="_blank"><img src="https://img.shields.io/badge/Resume-655ced?style=flat&logo=notion&logoColor=white"/>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=holeman4110)
-
-![slowkoding's github stats](https://github-readme-stats.vercel.app/api?username=holeman4110&show_icons=true?&theme=dracula)
-
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=holeman4110&layout=compact&theme=algolia) -->
