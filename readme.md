@@ -1,4 +1,4 @@
-# SlowKoding
+# Junhwan Heo
 
 <a a href="https://hits.sh/github.com/holeman4110/"><img alt="Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fholeman4110&count_bg=%23F6DFEB&title_bg=%23E4BAD4&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"></a>
 
